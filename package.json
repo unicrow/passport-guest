@@ -1,7 +1,7 @@
 {
-  "name": "passport-local",
+  "name": "passport-guest",
   "version": "1.0.0",
-  "description": "Local username and password authentication strategy for Passport.",
+  "description": "Local room number and pin authentication strategy for Passport.",
   "keywords": [
     "passport",
     "local",
